@@ -1,0 +1,22 @@
+{
+  "name": "firemailer",
+  "version": "1.0.0",
+  "description": "Firebase and nodemailer app for sending mail ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birahimba/FireMailer.git"
+  },
+  "keywords": [
+    "nodemailer"
+  ],
+  "author": "Elhadj Birahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birahimba/FireMailer/issues"
+  },
+  "homepage": "https://github.com/birahimba/FireMailer#readme"
+}
