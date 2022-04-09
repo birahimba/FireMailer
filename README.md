@@ -1,2 +1,2 @@
 # FireMailer
-Use node mailer node and firebase
+Use Nodemailer and Firebase
